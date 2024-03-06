@@ -24,3 +24,4 @@ var columns;
 		
 		return index > -1 ? this.columnsByIndex[index] : false;//hello
 	}
+//good
