@@ -22,5 +22,5 @@ var columns;
 			return col.visible;
 		});
 		
-		return index > -1 ? this.columnsByIndex[index] : false;
+		return index > -1 ? this.columnsByIndex[index] : false;//hello
 	}
